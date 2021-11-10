@@ -1,5 +1,5 @@
 <!-- https://i.imgur.com/TDisMSC.gif -->
-[![Social banner for Kabilan](https://i.imgur.com/TDisMSC.gif)](https://i.imgur.com/TDisMSC.gif)
+[![Social banner for Kabilan](https://im3.ezgif.com/tmp/ezgif-3-6def4a9044cb.gif)](https://im3.ezgif.com/tmp/ezgif-3-6def4a9044cb.gif)
 
 ### Hi there 👋
 
