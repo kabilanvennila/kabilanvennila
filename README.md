@@ -1,6 +1,10 @@
 <!-- https://i.imgur.com/TDisMSC.gif -->
 
-![](assets/github.gif)
+<!-- ![](assets/github.gif)
+ -->
+ 
+[![Social banner for jh3y](assets/github.gif)](assets/github.gif)
+
 
 ### Hi there 👋
 
