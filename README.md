@@ -1,5 +1,6 @@
 <!-- https://i.imgur.com/TDisMSC.gif -->
-![](assests/github.gif)
+
+![](assets/github.gif)
 
 ### Hi there 👋
 
