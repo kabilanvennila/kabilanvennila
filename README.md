@@ -12,10 +12,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 Kabilan is currently learning React and Deep learning
-- 👯 You can Ping Kabilan for Colab
+- 🌱 Kabilan is currently enhancing his knowledge on React and Deep Learning
+- 👯 You can ping Kabilan for Colab
 - ⚡  Did you know that in his spare time, he contributes to Open Source?
-- 😄 He wishes you to have a Nyshh day :)
+- ✨ Star his Repos to show him that you like his work 
+- 😄 He wishes you a Nyshh day :)
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
