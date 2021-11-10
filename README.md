@@ -1,21 +1,22 @@
-### Hi there 👋
-
 <!-- https://i.imgur.com/TDisMSC.gif -->
 [![Social banner for Kabilan](https://i.imgur.com/TDisMSC.gif)](https://i.imgur.com/TDisMSC.gif)
 
+### Hi there 👋
+
 <!-- **kabilanvennila/kabilanvennila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning React and Deep learning
+- 👯 You can Ping me for Colab
+- 😄 Have a Nyshh day :)
+
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+- ⚡ Fun fact: ... -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabilanvennila&show_icons=true&theme=radical)](https://github.com/kabilanvennila/github-readme-stats)
+
+[![Kabilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabilanvennila&show_icons=true&theme=radical)](https://github.com/kabilanvennila/github-readme-stats)
 
