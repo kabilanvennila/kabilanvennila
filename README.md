@@ -3,10 +3,10 @@
 <!-- ![](assets/github.gif)
  -->
  
-[![Social banner for jh3y](assets/github.gif)](assets/github.gif)
+[![Social banner for Kabilan](assets/github.gif)](assets/github.gif)
 
 
-### Hi there 👋
+### Welcome 
 
 <!-- **kabilanvennila/kabilanvennila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
