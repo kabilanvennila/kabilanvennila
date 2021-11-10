@@ -12,9 +12,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning React and Deep learning
-- 👯 You can Ping me for Colab
-- 😄 Have a Nyshh day :)
+- 🌱 Kabilan is currently learning React and Deep learning
+- 👯 You can Ping Kabilan for Colab
+- ⚡  Did you know that in his spare time, he contributes to Open Source?
+- 😄 He wishes you to have a Nyshh day :)
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
