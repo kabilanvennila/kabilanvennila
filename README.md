@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!-- https://i.imgur.com/TDisMSC.gif -->
+[![Social banner for Kabilan](https://i.imgur.com/TDisMSC.gif)](https://i.imgur.com/TDisMSC.gif)
 
 <!-- **kabilanvennila/kabilanvennila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
