@@ -25,3 +25,16 @@ Here are some ideas to get you started: -->
 
 [![Kabilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabilanvennila&show_icons=true&theme=radical)](https://github.com/kabilanvennila/github-readme-stats)
 
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png 
+[2.1]: http://i.imgur.com/P3YfQoD.png 
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+
+
