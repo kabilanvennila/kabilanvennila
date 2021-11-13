@@ -38,9 +38,13 @@ Here are some ideas to get you started: -->
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Safari" src="https://img.shields.io/badge/-Safari-02569B?style=flat-square&logo=safari&logoColor=white" />
-  <img alt="VScode" src="https://img.shields.io/badge/-Vscode-00B2FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="IOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-0078D6?style=flat-square&logo=fedora&logoColor=white" />
-  <img alt="AppleMusic" src="https://img.shields.io/badge/-Applemusic-F16061?style=flat-square&logo=applemusic&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img alt="VScode" src="https://img.shields.io/badge/-Vscode-00B2FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-0078D6?style=flat-square&logo=fedora&logoColor=white" />
+  <img alt="IOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="AppleMusic" src="https://img.shields.io/badge/-Applemusic-F16061?style=flat-square&logo=applemusic&logoColor=white" />
 </p>
+
+<h3>Champ 🏆</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kabilanvennila&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
