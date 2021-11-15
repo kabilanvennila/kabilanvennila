@@ -1,6 +1,6 @@
 <!-- https://i.imgur.com/TDisMSC.gif -->
 
-<!-- ![](assets/github.gif)
+<!-- ![](assets/githubBanner.gif)
  -->
  
 [![Social banner for Kabilan](assets/github.gif)](assets/github.gif)
